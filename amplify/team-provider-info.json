@@ -17,6 +17,9 @@
       },
       "api": {
         "fbpool4": {}
+      },
+      "storage": {
+        "chmarsamplifytutorial": {}
       }
     }
   }

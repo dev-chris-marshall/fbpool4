@@ -1,0 +1,14 @@
+{
+  "resourceName": "chmarsamplifytutorial",
+  "policyUUID": "f911ea67",
+  "bucketName": "chmarsamplifytutorialbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
